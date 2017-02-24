@@ -9,6 +9,6 @@ The .csv files are split into the training set and test sets. For now, I'm just 
 
 The .R file runs the code to explore the data, create a model data set, and fit some models
 
-The .html file is a brief summary of results, which is produced by the .RMD file 
+The .html and .docx files are identical brief summaries of results, which are produced by the .RMD file 
 
 To run the .R or .RMD file, note that you'll need to set your working directory to the location of the .csv files
